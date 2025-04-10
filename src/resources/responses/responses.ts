@@ -158,7 +158,7 @@ export interface ComputerTool {
   /**
    * The type of computer environment to control.
    */
-  environment: 'mac' | 'windows' | 'ubuntu' | 'browser';
+  environment: 'mac' | 'windows' | 'linux' | 'browser';
 
   /**
    * The type of the computer use tool. Always `computer_use_preview`.
