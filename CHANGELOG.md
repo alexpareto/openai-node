@@ -1,5 +1,20 @@
 # Changelog
 
+## 4.94.0 (2025-04-10)
+
+Full Changelog: [v4.93.0...v4.94.0](https://github.com/openai/openai-node/compare/v4.93.0...v4.94.0)
+
+### Features
+
+* **api:** manual updates ([7532f48](https://github.com/openai/openai-node/commit/7532f48ad25c5125064a59985587c20c47a2cbfb))
+
+
+### Chores
+
+* **internal:** reduce CI branch coverage ([a49b94a](https://github.com/openai/openai-node/commit/a49b94a9aebd3e30e1802fff633e1b46cfb81942))
+* **internal:** upload builds and expand CI branch coverage ([#1460](https://github.com/openai/openai-node/issues/1460)) ([7e23bb4](https://github.com/openai/openai-node/commit/7e23bb4f4a09303195b612cc5b393cc41c1d855b))
+* workaround build errors ([913eba8](https://github.com/openai/openai-node/commit/913eba828d116f49fa78b219c62274c1e95c6f17))
+
 ## 4.93.0 (2025-04-08)
 
 Full Changelog: [v4.92.1...v4.93.0](https://github.com/openai/openai-node/compare/v4.92.1...v4.93.0)
